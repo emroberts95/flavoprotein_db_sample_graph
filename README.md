@@ -1,7 +1,9 @@
 # flavoprotein_db_sample_graph
 
 Instructions to create your own graph:
-(Note, this has only been tested in a Windows environment)
+Notes: 
+*this has only been tested in a Windows environment
+*this is for development purposes only and may contain incomplete or outdated information
 
 1. Install and set-up Neo4j community server edition 4.1 or newer, instructions to do that are here: https://neo4j.com/download-center/#community You will have to install JDK 11 (described on instruction page) and then edit your environmental variables to point "JAVA_HOME" to the directory you installed JDK 11 to. Then you should install Neo4j as a service (not console) with command "neo4j install-service" in the "bin" subfolder. For example  "C:\neo4j-community-4.1.3\bin neo4j install-service" in your command line. 
 2. After installation, go to the neo4j browser. To do that, you will first have to start neo4j by navigating to the "bin" subfolder, for example: "C:\neo4j-community-4.1.3\bin neo4j start". You should then be able to use an internet browser (such as Google Chrome) to see the graph at "http://localhost:7474"
