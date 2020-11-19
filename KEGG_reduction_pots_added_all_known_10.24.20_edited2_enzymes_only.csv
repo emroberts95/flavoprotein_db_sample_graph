@@ -1,0 +1,269 @@
+Enzyme_Name,EC_Number,Half_Reaction_RP_mV,Half_Reaction_Type,Substrate,Product,Half_Reaction,Enzyme_Systematic_Name,KEGG_RXN_ID,KEGG_RXN_Name,Substrates_KEGG_IDs,Products_KEGG_IDs,Substrates_Names,Products_Names,enzyme-rxnID,Couple_Name
+L-lactate dehydrogenase;,1.1.1.27,-149,Enzyme,nan,nan,nan,(S)-lactate:NAD+ oxidoreductase,R03104," 3-Mercaptolactate:NAD+ oxidoreductase
+","['C05823', 'C00003']","['C00957', 'C00004', 'C00080']",3-Mercaptolactate + NAD+ ," Mercaptopyruvate + NADH + H+
+",L-lactate dehydrogenase;R03104,L-lactate dehydrogenase;
+L-lactate dehydrogenase;,1.1.1.27,-149,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,L-lactate dehydrogenase;nan,L-lactate dehydrogenase;
+L-lactate dehydrogenase;,1.1.1.27,-149,Enzyme,nan,nan,nan,(S)-lactate:NAD+ oxidoreductase,R01000," 2-hydroxybutyrate:NAD+ oxidoreductase
+","['C05984', 'C00003']","['C00109', 'C00004', 'C00080']",2-Hydroxybutanoic acid + NAD+ ," 2-Oxobutanoate + NADH + H+
+",L-lactate dehydrogenase;R01000,L-lactate dehydrogenase;
+D-lactate dehydrogenase;,1.1.1.28,-190,Enzyme,nan,nan,nan,(R)-lactate:NAD+ oxidoreductase,R00704," (R)-Lactate:NAD+ oxidoreductase
+","['C00256', 'C00003']","['C00022', 'C00004', 'C00080']",(R)-Lactate + NAD+ ," Pyruvate + NADH + H+
+",D-lactate dehydrogenase;R00704,D-lactate dehydrogenase;
+D-lactate dehydrogenase;,1.1.1.28,-190,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,D-lactate dehydrogenase;nan,D-lactate dehydrogenase;
+L-lactate oxidase;,1.1.3.2,-128,Enzyme,nan,nan,nan,(S)-lactate:oxygen 2-oxidoreductase,R11996," (S)-lactate:oxygen 2-oxidoreductase
+","['C00186', 'C00007']","['C00022', 'C00027']",(S)-Lactate + Oxygen ," Pyruvate + Hydrogen peroxide
+",L-lactate oxidase;R11996,L-lactate oxidase;
+L-lactate oxidase;,1.1.3.2,-128,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,L-lactate oxidase;nan,L-lactate oxidase;
+glycerol-3-phosphate oxidase;,1.1.3.21,-167,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,glycerol-3-phosphate oxidase;nan,glycerol-3-phosphate oxidase;
+glycerol-3-phosphate oxidase;,1.1.3.21,-167,Enzyme,nan,nan,nan,sn-glycerol-3-phosphate:oxygen 2-oxidoreductase,R00846," sn-Glycerol-3-phosphate:oxygen 2-oxidoreductase
+","['C00093', 'C00007']","['C00111', 'C00027']",sn-Glycerol 3-phosphate + Oxygen ," Glycerone phosphate + Hydrogen peroxide
+",glycerol-3-phosphate oxidase;R00846,glycerol-3-phosphate oxidase;
+alditol oxidase;,1.1.3.41,-109,Enzyme,nan,nan,nan,alditol:oxygen oxidoreductase,R11618," alditol:oxygen oxidoreductase
+","['C00717', 'C00007']","['C01370', 'C00027']",Alditol + Oxygen ," Aldose + Hydrogen peroxide
+",alditol oxidase;R11618,alditol oxidase;
+alditol oxidase;,1.1.3.41,-109,Enzyme,nan,nan,nan,alditol:oxygen oxidoreductase,R07152," xylitol:oxygen oxidoreductase
+","['C00379', 'C00007']","['C00181', 'C00027']",Xylitol + Oxygen ," D-Xylose + Hydrogen peroxide
+",alditol oxidase;R07152,alditol oxidase;
+alditol oxidase;,1.1.3.41,-109,Enzyme,nan,nan,nan,alditol:oxygen oxidoreductase,R11620," D-sorbitol:oxygen oxidoreductase
+","['C00794', 'C00007']","['C00267', 'C00027']",D-Sorbitol + Oxygen ," alpha-D-Glucose + Hydrogen peroxide
+",alditol oxidase;R11620,alditol oxidase;
+alditol oxidase;,1.1.3.41,-109,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,alditol oxidase;nan,alditol oxidase;
+glycerol-3-phosphate dehydrogenase;,1.1.5.3,-118,Enzyme,nan,nan,nan,sn-glycerol 3-phosphate:quinone oxidoreductase,R00849," sn-glycerol 3-phosphate:quinone oxidoreductase
+","['C00093', 'C15602']","['C00111', 'C15603']",sn-Glycerol 3-phosphate + Quinone ," Glycerone phosphate + Hydroquinone
+",glycerol-3-phosphate dehydrogenase;R00849,glycerol-3-phosphate dehydrogenase;
+glycerol-3-phosphate dehydrogenase;,1.1.5.3,-118,Enzyme,nan,nan,nan,sn-glycerol 3-phosphate:quinone oxidoreductase,R00848," sn-Glycerol-3-phosphate:(acceptor) 2-oxidoreductase
+","['C00093', 'C00016']","['C00111', 'C01352']",sn-Glycerol 3-phosphate + FAD ," Glycerone phosphate + FADH2
+",glycerol-3-phosphate dehydrogenase;R00848,glycerol-3-phosphate dehydrogenase;
+glycerol-3-phosphate dehydrogenase;,1.1.5.3,-118,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,glycerol-3-phosphate dehydrogenase;nan,glycerol-3-phosphate dehydrogenase;
+NADH peroxidase;,1.11.1.1,-312,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,NADH peroxidase;nan,NADH peroxidase;
+NADH peroxidase;,1.11.1.1,-312,Enzyme,nan,nan,nan,NADH:hydrogen-peroxide oxidoreductase,R00090," NADH:hydrogen-peroxide oxidoreductase
+","['C00027', 'C00004', 'C00080']","['C00003', 'C00001']",Hydrogen peroxide + NADH + H+ ," NAD+ + 2 H2O
+",NADH peroxidase;R00090,NADH peroxidase;
+salicylate 1-monooxygenase;,1.14.13.1,-59,Enzyme,nan,nan,nan,"salicylate,NADH:oxygen oxidoreductase (1-hydroxylating, decarboxylating)",R06936," salicylate,NADH:oxygen oxidoreductase (1-hydroxylating,decarboxylating)
+","['C14109', 'C00007', 'C00004', 'C00080']","['C14110', 'C00003', 'C00001', 'C00011']",4-Hydroxymethylsalicylate + Oxygen + NADH + H+ ," 4-Hydroxymethylcatechol + NAD+ + H2O + CO2
+",salicylate 1-monooxygenase;R06936,salicylate 1-monooxygenase;
+salicylate 1-monooxygenase;,1.14.13.1,-59,Enzyme,nan,nan,nan,"salicylate,NADH:oxygen oxidoreductase (1-hydroxylating, decarboxylating)",R06939," salicylate,NADH:oxygen oxidoreductase (1-hydroxylating,decarboxylating)
+","['C14103', 'C00007', 'C00004', 'C00080']","['C06730', 'C00003', 'C00001', 'C00011']",4-Methylsalicylate + Oxygen + NADH + H+ ," 4-Methylcatechol + NAD+ + H2O + CO2
+",salicylate 1-monooxygenase;R06939,salicylate 1-monooxygenase;
+salicylate 1-monooxygenase;,1.14.13.1,-59,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,salicylate 1-monooxygenase;nan,salicylate 1-monooxygenase;
+salicylate 1-monooxygenase;,1.14.13.1,-59,Enzyme,nan,nan,nan,"salicylate,NADH:oxygen oxidoreductase (1-hydroxylating, decarboxylating)",R06915," salicylate,NADH:oxygen oxidoreductase (1-hydroxylating,decarboxylating)
+","['C14088', 'C00007', 'C00004', 'C00080']","['C02923', 'C00003', 'C00011', 'C00001']",3-Methylsalicylate + Oxygen + NADH + H+ ," 2,3-Dihydroxytoluene + NAD+ + CO2 + H2O
+",salicylate 1-monooxygenase;R06915,salicylate 1-monooxygenase;
+salicylate 1-monooxygenase;,1.14.13.1,-59,Enzyme,nan,nan,nan,"salicylate,NADH:oxygen oxidoreductase (1-hydroxylating, decarboxylating)",R05632," 1-hydroxy-2-naphthoate,NADH:oxygen oxidoreductase (2-hydroxylating, decarboxylating)
+","['C03203', 'C00004', 'C00080', 'C00007']","['C03012', 'C00011', 'C00003', 'C00001']",1-Hydroxy-2-naphthoate + NADH + H+ + Oxygen ," Naphthalene-1,2-diol + CO2 + NAD+ + H2O
+",salicylate 1-monooxygenase;R05632,salicylate 1-monooxygenase;
+F-actin monooxygenase;,1.14.13.225,-240,Enzyme,nan,nan,nan,"[F-actin]-L-methionine,NADPH:O2 S-oxidoreductase",R11425," [F-actin]-L-methionine,NADPH:O2 S-oxidoreductase
+","['C21377', 'C00005', 'C00007', 'C00080']","['C21378', 'C00006', 'C00001']",[F-actin]-L-methionine + NADPH + Oxygen + H+ ," [F-actin]-L-methionine-(R)-S-oxide + NADP+ + H2O
+",F-actin monooxygenase;R11425,F-actin monooxygenase;
+F-actin monooxygenase;,1.14.13.225,-240,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,F-actin monooxygenase;nan,F-actin monooxygenase;
+methane monooxygenase (soluble);,1.14.13.25,-205,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,methane monooxygenase (soluble);nan,methane monooxygenase (soluble);
+methane monooxygenase (soluble);,1.14.13.25,-205,Enzyme,nan,nan,nan,"methane,NAD(P)H:oxygen oxidoreductase (hydroxylating)",R01142," Methane,NADH:oxygen oxidoreductase (hydroxylating)
+","['C01438', 'C00007', 'C00004', 'C00080']","['C00132', 'C00003', 'C00001']",Methane + Oxygen + NADH + H+ ," Methanol + NAD+ + H2O
+",methane monooxygenase (soluble);R01142,methane monooxygenase (soluble);
+methane monooxygenase (soluble);,1.14.13.25,-205,Enzyme,nan,nan,nan,"methane,NAD(P)H:oxygen oxidoreductase (hydroxylating)",R09141," Trichloroethene + NADH + H+ + Oxygen <=> TCE epoxide + NAD+ + H2O
+","['C06790', 'C00004', 'C00080', 'C00007']","['C11148', 'C00003', 'C00001']",Trichloroethene + NADH + H+ + Oxygen ," TCE epoxide + NAD+ + H2O
+",methane monooxygenase (soluble);R09141,methane monooxygenase (soluble);
+methane monooxygenase (soluble);,1.14.13.25,-205,Enzyme,nan,nan,nan,"methane,NAD(P)H:oxygen oxidoreductase (hydroxylating)",R02823," Alkene,NADH:oxygen oxidoreductase (hydroxylating)
+","['C01372', 'C00007', 'C00004', 'C00080']","['C00722', 'C00003', 'C00001']",Alkene + Oxygen + NADH + H+ ," Epoxide + NAD+ + H2O
+",methane monooxygenase (soluble);R02823,methane monooxygenase (soluble);
+methane monooxygenase (soluble);,1.14.13.25,-205,Enzyme,nan,nan,nan,"methane,NAD(P)H:oxygen oxidoreductase (hydroxylating)",R09148," 1,1,1-Trichloroethane + NADH + H+ + Oxygen <=> Trichloroethanol + NAD+ + H2O
+","['C18246', 'C00004', 'C00080', 'C00007']","['C07490', 'C00003', 'C00001']","1,1,1-Trichloroethane + NADH + H+ + Oxygen "," Trichloroethanol + NAD+ + H2O
+",methane monooxygenase (soluble);R09148,methane monooxygenase (soluble);
+nitric-oxide synthase (flavodoxin);,1.14.14.47,-255,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nitric-oxide synthase (flavodoxin);nan,nitric-oxide synthase (flavodoxin);
+nitric-oxide synthase (flavodoxin);,1.14.14.47,-255,Enzyme,nan,nan,nan,"L-arginine,reduced-flavodoxin:oxygen oxidoreductase (nitric-oxide-forming)",R11711," L-arginine,reduced-flavodoxin:oxygen oxidoreductase (nitric-oxide-forming)
+","['C00062', 'C02745', 'C00007']","['C00327', 'C00533', 'C02869', 'C00001']",2 L-Arginine + 3 Reduced flavodoxin + 4 Oxygen ," 2 L-Citrulline + 2 Nitric oxide + 3 Oxidized flavodoxin + 4 H2O
+",nitric-oxide synthase (flavodoxin);R11711,nitric-oxide synthase (flavodoxin);
+nitric-oxide synthase (flavodoxin);,1.14.14.47,-255,Enzyme,nan,nan,nan,"L-arginine,reduced-flavodoxin:oxygen oxidoreductase (nitric-oxide-forming)",R11712," 2 L-Arginine + 2 Reduced flavodoxin + 2 Oxygen <=> 2 N(omega)-Hydroxyarginine + 2 Oxidized flavodoxin + 2 H2O
+","['C00062', 'C02745', 'C00007']","['C05933', 'C02869', 'C00001']",2 L-Arginine + 2 Reduced flavodoxin + 2 Oxygen ," 2 N(omega)-Hydroxyarginine + 2 Oxidized flavodoxin + 2 H2O
+",nitric-oxide synthase (flavodoxin);R11712,nitric-oxide synthase (flavodoxin);
+nitric-oxide synthase (flavodoxin);,1.14.14.47,-255,Enzyme,nan,nan,nan,"L-arginine,reduced-flavodoxin:oxygen oxidoreductase (nitric-oxide-forming)",R11713," 2 N(omega)-Hydroxyarginine + Reduced flavodoxin + 2 Oxygen <=> 2 L-Citrulline + 2 Nitric oxide + Oxidized flavodoxin + 2 H2O
+","['C05933', 'C02745', 'C00007']","['C00327', 'C00533', 'C02869', 'C00001']",2 N(omega)-Hydroxyarginine + Reduced flavodoxin + 2 Oxygen ," 2 L-Citrulline + 2 Nitric oxide + Oxidized flavodoxin + 2 H2O
+",nitric-oxide synthase (flavodoxin);R11713,nitric-oxide synthase (flavodoxin);
+anthranilate 3-monooxygenase (FAD);,1.14.14.8,-204,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,anthranilate 3-monooxygenase (FAD);nan,anthranilate 3-monooxygenase (FAD);
+anthranilate 3-monooxygenase (FAD);,1.14.14.8,-204,Enzyme,nan,nan,nan,"anthranilate,FADH2:oxygen oxidoreductase (3-hydroxylating)",R09517," anthranilate,FAD:oxygen oxidoreductase (3-hydroxylating)
+","['C00108', 'C01352', 'C00007']","['C00632', 'C00016', 'C00001']",Anthranilate + FADH2 + Oxygen ," 3-Hydroxyanthranilate + FAD + H2O
+",anthranilate 3-monooxygenase (FAD);R09517,anthranilate 3-monooxygenase (FAD);
+mercury(II) reductase;,1.16.1.1,-335,Enzyme,nan,nan,nan,Hg:NADP+ oxidoreductase,R02807," Hg:NADP+ oxidoreductase
+","['C01319', 'C00006', 'C00080']","['C00703', 'C00005']",Hg + NADP+ + H+ ," Mercury(2+) + NADPH
+",mercury(II) reductase;R02807,mercury(II) reductase;
+mercury(II) reductase;,1.16.1.1,-335,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,mercury(II) reductase;nan,mercury(II) reductase;
+[methionine synthase] reductase;,1.16.1.8,-168,Enzyme,nan,nan,nan,"[methionine synthase]-methylcob(I)alamin,S-adenosylhomocysteine:NADP+ oxidoreductase",R05182," [methionine synthase]-methylcob(I)alamin,S-adenosylhomocysteine:NADP+ oxidoreductase
+","['C00019', 'C06409', 'C00005', 'C00080']","['C06410', 'C00021', 'C00006']",2 S-Adenosyl-L-methionine + 2 [Methionine synthase]-cob(II)alamin + NADPH + H+ ," 2 [Methionine synthase]-methylcob(I)alamin + 2 S-Adenosyl-L-homocysteine + NADP+
+",[methionine synthase] reductase;R05182,[methionine synthase] reductase;
+[methionine synthase] reductase;,1.16.1.8,-168,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,[methionine synthase] reductase;nan,[methionine synthase] reductase;
+ferredoxin---NADP+ reductase;,1.18.1.2,-325,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,ferredoxin---NADP+ reductase;nan,ferredoxin---NADP+ reductase;
+ferredoxin---NADP+ reductase;,1.18.1.2,-325,Enzyme,nan,nan,nan,ferredoxin:NADP+ oxidoreductase,R01195," Ferredoxin:NADP+ oxidoreductase
+","['C00138', 'C00006', 'C00080']","['C00139', 'C00005']",2 Reduced ferredoxin + NADP+ + H+ ," 2 Oxidized ferredoxin + NADPH
+",ferredoxin---NADP+ reductase;R01195,ferredoxin---NADP+ reductase;
+ferredoxin---NADP+ reductase;,1.18.1.2,-325,Enzyme,nan,nan,nan,ferredoxin:NADP+ oxidoreductase,R10159," adrenodoxin:NADP+ oxidoreductase
+","['C00662', 'C00006', 'C00080']","['C00667', 'C00005']",2 Reduced adrenal ferredoxin + NADP+ + H+ ," 2 Oxidized adrenal ferredoxin + NADPH
+",ferredoxin---NADP+ reductase;R10159,ferredoxin---NADP+ reductase;
+pyruvate oxidase;,1.2.3.3,-300,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,pyruvate oxidase;nan,pyruvate oxidase;
+pyruvate oxidase;,1.2.3.3,-300,Enzyme,nan,nan,nan,pyruvate:oxygen 2-oxidoreductase (phosphorylating),R00207," Pyruvate:oxygen 2-oxidoreductase (phosphorylating)
+","['C00022', 'C00009', 'C00007']","['C00227', 'C00027', 'C00011']",Pyruvate + Orthophosphate + Oxygen ," Acetyl phosphate + Hydrogen peroxide + CO2
+",pyruvate oxidase;R00207,pyruvate oxidase;
+pyruvate dehydrogenase (quinone);,1.2.5.1,-300,Enzyme,nan,nan,nan,pyruvate:ubiquinone oxidoreductase,R03145," pyruvate:ubiquinone oxidoreductase
+","['C00022', 'C00399', 'C00001']","['C00033', 'C00390', 'C00011']",Pyruvate + Ubiquinone + H2O ," Acetate + Ubiquinol + CO2
+",pyruvate dehydrogenase (quinone);R03145,pyruvate dehydrogenase (quinone);
+pyruvate dehydrogenase (quinone);,1.2.5.1,-300,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,pyruvate dehydrogenase (quinone);nan,pyruvate dehydrogenase (quinone);
+crotonyl-CoA reductase;,1.3.1.86,-162,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,crotonyl-CoA reductase;nan,crotonyl-CoA reductase;
+crotonyl-CoA reductase;,1.3.1.86,-162,Enzyme,nan,nan,nan,"butanoyl-CoA:NADP+ 2,3-oxidoreductase",R09738," butanoyl-CoA:NADP+ 2,3-oxidoreductase
+","['C00136', 'C00006']","['C00877', 'C00005', 'C00080']",Butanoyl-CoA + NADP+ ," Crotonoyl-CoA + NADPH + H+
+",crotonyl-CoA reductase;R09738,crotonyl-CoA reductase;
+L-galactonolactone dehydrogenase;,1.3.2.3,-44,Enzyme,nan,nan,nan,"L-galactono-1,4-lactone:ferricytochrome-c oxidoreductase",R07679," Ascorbate + 2 Ferricytochrome c <=> Dehydroascorbate + 2 Ferrocytochrome c + 2 H+
+","['C00072', 'C00125']","['C05422', 'C00126', 'C00080']",Ascorbate + 2 Ferricytochrome c ," Dehydroascorbate + 2 Ferrocytochrome c + 2 H+
+",L-galactonolactone dehydrogenase;R07679,L-galactonolactone dehydrogenase;
+L-galactonolactone dehydrogenase;,1.3.2.3,-44,Enzyme,nan,nan,nan,"L-galactono-1,4-lactone:ferricytochrome-c oxidoreductase",R12144," L-galactono-1,4-lactone:ferricytochrome-c oxidoreductase
+","['C01115', 'C00125']","['C05422', 'C00126', 'C00080']","L-Galactono-1,4-lactone + 4 Ferricytochrome c "," Dehydroascorbate + 4 Ferrocytochrome c + 4 H+
+",L-galactonolactone dehydrogenase;R12144,L-galactonolactone dehydrogenase;
+L-galactonolactone dehydrogenase;,1.3.2.3,-44,Enzyme,nan,nan,nan,"L-galactono-1,4-lactone:ferricytochrome-c oxidoreductase",R00640," L-Galactono-1,4-lactone:ferricytochrome-c oxidoreductase
+","['C01115', 'C00125']","['C00072', 'C00126', 'C00080']","L-Galactono-1,4-lactone + 2 Ferricytochrome c "," Ascorbate + 2 Ferrocytochrome c + 2 H+
+",L-galactonolactone dehydrogenase;R00640,L-galactonolactone dehydrogenase;
+L-galactonolactone dehydrogenase;,1.3.2.3,-44,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,L-galactonolactone dehydrogenase;nan,L-galactonolactone dehydrogenase;
+glutamate synthase (NADPH);,1.4.1.13,-299,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,glutamate synthase (NADPH);nan,glutamate synthase (NADPH);
+glutamate synthase (NADPH);,1.4.1.13,-299,Enzyme,nan,nan,nan,L-glutamate:NADP+ oxidoreductase (transaminating),R00114," L-glutamate:NADP+ oxidoreductase (transaminating)
+","['C00025', 'C00006']","['C00064', 'C00026', 'C00005', 'C00080']",2 L-Glutamate + NADP+ ," L-Glutamine + 2-Oxoglutarate + NADPH + H+
+",glutamate synthase (NADPH);R00114,glutamate synthase (NADPH);
+glutamate synthase (NADPH);,1.4.1.13,-299,Enzyme,nan,nan,nan,L-glutamate:NADP+ oxidoreductase (transaminating),R00248," L-glutamate:NADP+ oxidoreductase (deaminating)
+","['C00025', 'C00006', 'C00001']","['C00026', 'C00014', 'C00005', 'C00080']",L-Glutamate + NADP+ + H2O ," 2-Oxoglutarate + Ammonia + NADPH + H+
+",glutamate synthase (NADPH);R00248,glutamate synthase (NADPH);
+glutamate synthase (NADH);,1.4.1.14,-299,Enzyme,nan,nan,nan,L-glutamate:NAD+ oxidoreductase (transaminating),R00243," L-glutamate:NAD+ oxidoreductase (deaminating)
+","['C00025', 'C00003', 'C00001']","['C00026', 'C00014', 'C00004', 'C00080']",L-Glutamate + NAD+ + H2O ," 2-Oxoglutarate + Ammonia + NADH + H+
+",glutamate synthase (NADH);R00243,glutamate synthase (NADH);
+glutamate synthase (NADH);,1.4.1.14,-299,Enzyme,nan,nan,nan,L-glutamate:NAD+ oxidoreductase (transaminating),R00093," L-glutamate:NAD+ oxidoreductase (transaminating)
+","['C00025', 'C00003']","['C00064', 'C00026', 'C00004', 'C00080']",2 L-Glutamate + NAD+ ," L-Glutamine + 2-Oxoglutarate + NADH + H+
+",glutamate synthase (NADH);R00093,glutamate synthase (NADH);
+glutamate synthase (NADH);,1.4.1.14,-299,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,glutamate synthase (NADH);nan,glutamate synthase (NADH);
+glycine oxidase,1.4.3.19,-179,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,glycine oxidasenan,glycine oxidase
+glycine oxidase,1.4.3.19,-179,Enzyme,nan,nan,nan,glycine:oxygen oxidoreductase (deaminating),R07463," glycine:oxygen oxidoreductase
+","['C00037', 'C00007']","['C15809', 'C00027']",Glycine + Oxygen ," Iminoglycine + Hydrogen peroxide
+",glycine oxidaseR07463,glycine oxidase
+glycine oxidase,1.4.3.19,-179,Enzyme,nan,nan,nan,glycine:oxygen oxidoreductase (deaminating),R05863," N-ethylglycine:oxygen oxidoreductase (deaminating)
+","['C11735', 'C00001', 'C00007']","['C00048', 'C00797', 'C00027']",N-Ethylglycine + H2O + Oxygen ," Glyoxylate + Ethylamine + Hydrogen peroxide
+",glycine oxidaseR05863,glycine oxidase
+glycine oxidase,1.4.3.19,-179,Enzyme,nan,nan,nan,glycine:oxygen oxidoreductase (deaminating),R05862," sarcosine:oxygen oxidoreductase (deaminating)
+","['C00213', 'C00001', 'C00007']","['C00048', 'C00218', 'C00027']",Sarcosine + H2O + Oxygen ," Glyoxylate + Methylamine + Hydrogen peroxide
+",glycine oxidaseR05862,glycine oxidase
+L-amino-acid oxidase;,1.4.3.2,-48,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,L-amino-acid oxidase;nan,L-amino-acid oxidase;
+L-amino-acid oxidase;,1.4.3.2,-48,Enzyme,nan,nan,nan,L-amino-acid:oxygen oxidoreductase (deaminating),R00677," L-Tryptophan:oxygen oxidoreductase (deaminating)
+","['C00078', 'C00001', 'C00007']","['C00331', 'C00014', 'C00027']",L-Tryptophan + H2O + Oxygen ," Indolepyruvate + Ammonia + Hydrogen peroxide
+",L-amino-acid oxidase;R00677,L-amino-acid oxidase;
+L-amino-acid oxidase;,1.4.3.2,-48,Enzyme,nan,nan,nan,L-amino-acid:oxygen oxidoreductase (deaminating),R00689," L-Phenylalanine:oxygen oxidoreductase (deaminating)
+","['C00079', 'C00001', 'C00007']","['C00166', 'C00014', 'C00027']",L-Phenylalanine + H2O + Oxygen ," Phenylpyruvate + Ammonia + Hydrogen peroxide
+",L-amino-acid oxidase;R00689,L-amino-acid oxidase;
+L-amino-acid oxidase;,1.4.3.2,-48,Enzyme,nan,nan,nan,L-amino-acid:oxygen oxidoreductase (deaminating),R00648," L-Methionine:oxygen oxidoreductase (deaminating)
+","['C00073', 'C00001', 'C00007']","['C01180', 'C00014', 'C00027']",L-Methionine + H2O + Oxygen ," 4-Methylthio-2-oxobutanoic acid + Ammonia + Hydrogen peroxide
+",L-amino-acid oxidase;R00648,L-amino-acid oxidase;
+L-amino-acid oxidase;,1.4.3.2,-48,Enzyme,nan,nan,nan,L-amino-acid:oxygen oxidoreductase (deaminating),R01259," L-Amino-acid:oxygen oxidoreductase (deaminating)
+","['C00151', 'C00001', 'C00007']","['C00161', 'C00014', 'C00027']",L-Amino acid + H2O + Oxygen ," 2-Oxo acid + Ammonia + Hydrogen peroxide
+",L-amino-acid oxidase;R01259,L-amino-acid oxidase;
+L-amino-acid oxidase;,1.4.3.2,-48,Enzyme,nan,nan,nan,L-amino-acid:oxygen oxidoreductase (deaminating),R00729," L-Tyrosine:oxygen oxidoreductase (deaminating)
+","['C00082', 'C00001', 'C00007']","['C01179', 'C00014', 'C00027']",L-Tyrosine + H2O + Oxygen ," 3-(4-Hydroxyphenyl)pyruvate + Ammonia + Hydrogen peroxide
+",L-amino-acid oxidase;R00729,L-amino-acid oxidase;
+L-amino-acid oxidase;,1.4.3.2,-48,Enzyme,nan,nan,nan,L-amino-acid:oxygen oxidoreductase (deaminating),R00357," L-Aspartic acid:oxygen oxidoreductase (deaminating)
+","['C00049', 'C00001', 'C00007']","['C00036', 'C00014', 'C00027']",L-Aspartate + H2O + Oxygen ," Oxaloacetate + Ammonia + Hydrogen peroxide
+",L-amino-acid oxidase;R00357,L-amino-acid oxidase;
+D-amino-acid oxidase;,1.4.3.3,-151,Enzyme,nan,nan,nan,D-amino-acid:oxygen oxidoreductase (deaminating),R05861," D-alanine:oxygen oxidoreductase (deaminating)
+","['C00133', 'C00001', 'C00007']","['C00022', 'C00014', 'C00027']",D-Alanine + H2O + Oxygen ," Pyruvate + Ammonia + Hydrogen peroxide
+",D-amino-acid oxidase;R05861,D-amino-acid oxidase;
+D-amino-acid oxidase;,1.4.3.3,-151,Enzyme,nan,nan,nan,D-amino-acid:oxygen oxidoreductase (deaminating),R01340," D-Amino-acid:oxygen oxidoreductase (deaminating)
+","['C00405', 'C00001', 'C00007']","['C00161', 'C00014', 'C00027']",D-Amino acid + H2O + Oxygen ," 2-Oxo acid + Ammonia + Hydrogen peroxide
+",D-amino-acid oxidase;R01340,D-amino-acid oxidase;
+D-amino-acid oxidase;,1.4.3.3,-151,Enzyme,nan,nan,nan,D-amino-acid:oxygen oxidoreductase (deaminating),R02457," D-Ornithine:oxygen oxidoreductase (deaminating)
+","['C00515', 'C00001', 'C00007']","['C01110', 'C00014', 'C00027']",D-Ornithine + H2O + Oxygen ," 5-Amino-2-oxopentanoic acid + Ammonia + Hydrogen peroxide
+",D-amino-acid oxidase;R02457,D-amino-acid oxidase;
+D-amino-acid oxidase;,1.4.3.3,-151,Enzyme,nan,nan,nan,D-amino-acid:oxygen oxidoreductase (deaminating),R02894," D-Proline:oxygen oxidoreductase
+","['C00763', 'C00007']","['C03564', 'C00027']",D-Proline + Oxygen ," 1-Pyrroline-2-carboxylate + Hydrogen peroxide
+",D-amino-acid oxidase;R02894,D-amino-acid oxidase;
+D-amino-acid oxidase;,1.4.3.3,-151,Enzyme,nan,nan,nan,D-amino-acid:oxygen oxidoreductase (deaminating),R02923," D-Arginine:oxygen oxidoreductase (deaminating)
+","['C00792', 'C00001', 'C00007']","['C03771', 'C00014', 'C00027']",D-Arginine + H2O + Oxygen ," 5-Guanidino-2-oxopentanoate + Ammonia + Hydrogen peroxide
+",D-amino-acid oxidase;R02923,D-amino-acid oxidase;
+D-amino-acid oxidase;,1.4.3.3,-151,Enzyme,nan,nan,nan,D-amino-acid:oxygen oxidoreductase (deaminating),R00366," glycine:oxygen oxidoreductase (deaminating);
+","['C00037', 'C00001', 'C00007']","['C00048', 'C00014', 'C00027']",Glycine + H2O + Oxygen ," Glyoxylate + Ammonia + Hydrogen peroxide
+",D-amino-acid oxidase;R00366,D-amino-acid oxidase;
+D-amino-acid oxidase;,1.4.3.3,-151,Enzyme,nan,nan,nan,D-amino-acid:oxygen oxidoreductase (deaminating),R04221," cis-4-Hydroxy-D-proline:oxygen oxidoreductase (deaminating)
+","['C03440', 'C00007']","['C04282', 'C00027']",cis-4-Hydroxy-D-proline + Oxygen ," 1-Pyrroline-4-hydroxy-2-carboxylate + Hydrogen peroxide
+",D-amino-acid oxidase;R04221,D-amino-acid oxidase;
+D-amino-acid oxidase;,1.4.3.3,-151,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,D-amino-acid oxidase;nan,D-amino-acid oxidase;
+glutamate synthase (ferredoxin);,1.4.7.1,-200,Enzyme,nan,nan,nan,L-glutamate:ferredoxin oxidoreductase (transaminating),R00021," L-glutamate:ferredoxin oxidoreductase (transaminating)
+","['C00025', 'C00139']","['C00064', 'C00026', 'C00138', 'C00080']",2 L-Glutamate + 2 Oxidized ferredoxin ," L-Glutamine + 2-Oxoglutarate + 2 Reduced ferredoxin + 2 H+
+",glutamate synthase (ferredoxin);R00021,glutamate synthase (ferredoxin);
+glutamate synthase (ferredoxin);,1.4.7.1,-200,Enzyme,nan,nan,nan,L-glutamate:ferredoxin oxidoreductase (transaminating),R10086," L-glutamate:ferredoxin oxidoreductase (deaminating)
+","['C00025', 'C00139', 'C00001']","['C00014', 'C00026', 'C00138', 'C00080']",L-Glutamate + 2 Oxidized ferredoxin + H2O ," Ammonia + 2-Oxoglutarate + 2 Reduced ferredoxin + 2 H+
+",glutamate synthase (ferredoxin);R10086,glutamate synthase (ferredoxin);
+glutamate synthase (ferredoxin);,1.4.7.1,-200,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,glutamate synthase (ferredoxin);nan,glutamate synthase (ferredoxin);
+sarcosine oxidase,1.5.3.1,79.5,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,sarcosine oxidasenan,sarcosine oxidase
+sarcosine oxidase,1.5.3.1,79.5,Enzyme,nan,nan,nan,sarcosine:oxygen oxidoreductase (demethylating),R00610," sarcosine:oxygen oxidoreductase (demethylating)
+","['C00213', 'C00001', 'C00007']","['C00037', 'C00067', 'C00027']",Sarcosine + H2O + Oxygen ," Glycine + Formaldehyde + Hydrogen peroxide
+",sarcosine oxidaseR00610,sarcosine oxidase
+(R)-6-hydroxynicotine oxidase;,1.5.3.6,-36.5,Enzyme,nan,nan,nan,(R)-6-hydroxynicotine:oxygen oxidoreductase,R07170," (R)-6-hydroxynicotine:oxygen oxidoreductase
+","['C03043', 'C00001', 'C00007']","['C01297', 'C00027']",(R)-6-Hydroxynicotine + H2O + Oxygen ," 6-Hydroxypseudooxynicotine + Hydrogen peroxide
+",(R)-6-hydroxynicotine oxidase;R07170,(R)-6-hydroxynicotine oxidase;
+(R)-6-hydroxynicotine oxidase;,1.5.3.6,-36.5,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,(R)-6-hydroxynicotine oxidase;nan,(R)-6-hydroxynicotine oxidase;
+(R)-6-hydroxynicotine oxidase;,1.5.3.6,-36.5,Enzyme,nan,nan,nan,(R)-6-hydroxynicotine:oxygen oxidoreductase,R11050," (R)-6-Hydroxynicotine + Oxygen <=> 5-(N-Methyl-4,5-dihydro-1H-pyrrol-2-yl)pyridin-2-ol + Hydrogen peroxide
+","['C03043', 'C00007']","['C21075', 'C00027']",(R)-6-Hydroxynicotine + Oxygen ," 5-(N-Methyl-4,5-dihydro-1H-pyrrol-2-yl)pyridin-2-ol + Hydrogen peroxide
+",(R)-6-hydroxynicotine oxidase;R11050,(R)-6-hydroxynicotine oxidase;
+cytochrome-b5 reductase;,1.6.2.2,-273,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,cytochrome-b5 reductase;nan,cytochrome-b5 reductase;
+cytochrome-b5 reductase;,1.6.2.2,-273,Enzyme,nan,nan,nan,NADH:ferricytochrome-b5 oxidoreductase,R00100," NADH:ferricytochrome-b5 oxidoreductase
+","['C00004', 'C00996']","['C00003', 'C00999', 'C00080']",NADH + 2 Ferricytochrome b5 ," NAD+ + 2 Ferrocytochrome b5 + H+
+",cytochrome-b5 reductase;R00100,cytochrome-b5 reductase;
+NADPH---hemoprotein reductase;,1.6.2.4,-290,Enzyme,nan,nan,nan,NADPH:hemoprotein oxidoreductase,R00106," NADPH:ferricytochrome oxidoreductase
+","['C00005', 'C00923']","['C00006', 'C00924', 'C00080']",NADPH + 2 Ferricytochrome ," NADP+ + 2 Ferrocytochrome + H+
+",NADPH---hemoprotein reductase;R00106,NADPH---hemoprotein reductase;
+NADPH---hemoprotein reductase;,1.6.2.4,-290,Enzyme,nan,nan,nan,NADPH:hemoprotein oxidoreductase,R08551," cytochrome P-450 reductase
+","['C03161', 'C00005', 'C00080']","['C03024', 'C00006']",[Oxidized NADPH---hemoprotein reductase] + NADPH + H+ ," [Reduced NADPH---hemoprotein reductase] + NADP+
+",NADPH---hemoprotein reductase;R08551,NADPH---hemoprotein reductase;
+NADPH---hemoprotein reductase;,1.6.2.4,-290,Enzyme,nan,nan,nan,NADPH:hemoprotein oxidoreductase,R08539," NADPH:ferricytochrome-b5 oxidoreductase
+","['C00005', 'C00996']","['C00006', 'C00999']",NADPH + 2 Ferricytochrome b5 ," NADP+ + 2 Ferrocytochrome b5
+",NADPH---hemoprotein reductase;R08539,NADPH---hemoprotein reductase;
+NADPH---hemoprotein reductase;,1.6.2.4,-290,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,NADPH---hemoprotein reductase;nan,NADPH---hemoprotein reductase;
+NADPH---hemoprotein reductase;,1.6.2.4,-290,Enzyme,nan,nan,nan,NADPH:hemoprotein oxidoreductase,R05102," NADPH:cytochrome-P-450 oxidoreductase
+","['C06109', 'C00005']","['C06110', 'C00006', 'C00080']",Cytochrome P-450 oxidized form + NADPH ," Cytochrome P-450 reduced form + NADP+ + H+
+",NADPH---hemoprotein reductase;R05102,NADPH---hemoprotein reductase;
+NAD(P)H dehydrogenase (quinone);,1.6.5.2,-159,Enzyme,nan,nan,nan,NAD(P)H:quinone oxidoreductase,R07359," NADPH:quinone oxidoreductase
+","['C00005', 'C00080', 'C15602']","['C00006', 'C15603']",NADPH + H+ + Quinone ," NADP+ + Hydroquinone
+",NAD(P)H dehydrogenase (quinone);R07359,NAD(P)H dehydrogenase (quinone);
+NAD(P)H dehydrogenase (quinone);,1.6.5.2,-159,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,NAD(P)H dehydrogenase (quinone);nan,NAD(P)H dehydrogenase (quinone);
+NAD(P)H dehydrogenase (quinone);,1.6.5.2,-159,Enzyme,nan,nan,nan,NAD(P)H:quinone oxidoreductase,R03643," NADH:(quinone-acceptor) oxidoreductase
+","['C01628', 'C00004', 'C00080']","['C05850', 'C00003']",Vitamin K + NADH + H+ ," Reduced Vitamin K + NAD+
+",NAD(P)H dehydrogenase (quinone);R03643,NAD(P)H dehydrogenase (quinone);
+NAD(P)H dehydrogenase (quinone);,1.6.5.2,-159,Enzyme,nan,nan,nan,NAD(P)H:quinone oxidoreductase,R02964," NADH:menaquinone oxidoreductase
+","['C00828', 'C00080', 'C00004']","['C05819', 'C00003']",Menaquinone + H+ + NADH ," Menaquinol + NAD+
+",NAD(P)H dehydrogenase (quinone);R02964,NAD(P)H dehydrogenase (quinone);
+NADH:quinone reductase (non-electrogenic);,1.6.5.9,-222,Enzyme,nan,nan,nan,NADH:quinone oxidoreductase,R07358," NADH:quinone oxidoreductase
+","['C00004', 'C00080', 'C15602']","['C00003', 'C15603']",NADH + H+ + Quinone ," NAD+ + Hydroquinone
+",NADH:quinone reductase (non-electrogenic);R07358,NADH:quinone reductase (non-electrogenic);
+NADH:quinone reductase (non-electrogenic);,1.6.5.9,-222,Enzyme,nan,nan,nan,NADH:quinone oxidoreductase,R02163," NADH:ubiquinone oxidoreductase
+","['C00390', 'C00003']","['C00399', 'C00004', 'C00080']",Ubiquinol + NAD+ ," Ubiquinone + NADH + H+
+",NADH:quinone reductase (non-electrogenic);R02163,NADH:quinone reductase (non-electrogenic);
+NADH:quinone reductase (non-electrogenic);,1.6.5.9,-222,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,NADH:quinone reductase (non-electrogenic);nan,NADH:quinone reductase (non-electrogenic);
+azobenzene reductase;,1.7.1.6,-145,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,azobenzene reductase;nan,azobenzene reductase;
+azobenzene reductase;,1.7.1.6,-145,Enzyme,nan,nan,nan,"N,N-dimethyl-1,4-phenylenediamine, aniline:NADP+ oxidoreductase",R05711," N,N-dimethyl-1,4-phenylenediamine, aniline:NADP+ oxidoreductase
+","['C04203', 'C00292', 'C00006']","['C03764', 'C00005', 'C00080']","N,N-Dimethyl-1,4-phenylenediamine + Aniline + 2 NADP+ "," para-(Dimethylamino)azobenzene + 2 NADPH + 2 H+
+",azobenzene reductase;R05711,azobenzene reductase;
+nitroalkane oxidase;,1.7.3.1,-367,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nitroalkane oxidase;nan,nitroalkane oxidase;
+nitroalkane oxidase;,1.7.3.1,-367,Enzyme,nan,nan,nan,nitroalkane:oxygen oxidoreductase,R10388," nitroalkane:oxygen oxidoreductase
+","['C06058', 'C00001', 'C00007']","['C00071', 'C00088', 'C00027']",Nitroalkane + H2O + Oxygen ," Aldehyde + Nitrite + Hydrogen peroxide
+",nitroalkane oxidase;R10388,nitroalkane oxidase;
+nitroalkane oxidase;,1.7.3.1,-367,Enzyme,nan,nan,nan,nitroalkane:oxygen oxidoreductase,R10389," nitroalkane:oxygen oxidoreductase
+","['C06058', 'C00001', 'C00007']","['C01450', 'C00088', 'C00027']",Nitroalkane + H2O + Oxygen ," Ketone + Nitrite + Hydrogen peroxide
+",nitroalkane oxidase;R10389,nitroalkane oxidase;
+glutathione-disulfide reductase;,1.8.1.7,-243,Enzyme,nan,nan,nan,glutathione:NADP+ oxidoreductase,R00094," glutathione:NAD+ oxidoreductase
+","['C00051', 'C00003']","['C00127', 'C00004', 'C00080']",2 Glutathione + NAD+ ," Glutathione disulfide + NADH + H+
+",glutathione-disulfide reductase;R00094,glutathione-disulfide reductase;
+glutathione-disulfide reductase;,1.8.1.7,-243,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,glutathione-disulfide reductase;nan,glutathione-disulfide reductase;
+thioredoxin-disulfide reductase;,1.8.1.9,-305,Enzyme,nan,nan,nan,thioredoxin:NADP+ oxidoreductase,R09372," methaneselenol:NADP+ oxidoreductase
+","['C00005', 'C00080', 'C18902']","['C00006', 'C00001', 'C05703']",2 NADPH + 2 H+ + Methylselenic acid ," 2 NADP+ + 2 H2O + Methaneselenol
+",thioredoxin-disulfide reductase;R09372,thioredoxin-disulfide reductase;
+thioredoxin-disulfide reductase;,1.8.1.9,-305,Enzyme,nan,nan,nan,thioredoxin:NADP+ oxidoreductase,R03596," hydrogen selenide:NADP+ oxidoreductase
+","['C01528', 'C00006', 'C00001']","['C05684', 'C00005', 'C00080']",Hydrogen selenide + 3 NADP+ + 3 H2O ," Selenite + 3 NADPH + 5 H+
+",thioredoxin-disulfide reductase;R03596,thioredoxin-disulfide reductase;
+thioredoxin-disulfide reductase;,1.8.1.9,-305,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,thioredoxin-disulfide reductase;nan,thioredoxin-disulfide reductase;
+sulfite dehydrogenase (cytochrome);,1.8.2.1,-232.5,Enzyme,nan,nan,nan,sulfite:ferricytochrome-c oxidoreductase,R00528," sulfite:ferricytochrome-c oxidoreductase
+","['C00094', 'C00001', 'C00125']","['C00059', 'C00126', 'C00080']",Sulfite + H2O + 2 Ferricytochrome c ," Sulfate + 2 Ferrocytochrome c + 2 H+
+",sulfite dehydrogenase (cytochrome);R00528,sulfite dehydrogenase (cytochrome);
+sulfite dehydrogenase (cytochrome);,1.8.2.1,-232.5,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,sulfite dehydrogenase (cytochrome);nan,sulfite dehydrogenase (cytochrome);
+NADH:ubiquinone reductase (H+-translocating);,7.1.1.2,-320,Enzyme,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,NADH:ubiquinone reductase (H+-translocating);nan,NADH:ubiquinone reductase (H+-translocating);
+NADH:ubiquinone reductase (H+-translocating);,7.1.1.2,-320,Enzyme,nan,nan,nan,NADH:ubiquinone oxidoreductase,R11945," NADH:ubiquinone oxidoreductase
+","['C00399', 'C00004', 'C00080']","['C00390', 'C00003', 'C00080']",Ubiquinone + NADH + 6 H+ ," Ubiquinol + NAD+ + 5 H+
+",NADH:ubiquinone reductase (H+-translocating);R11945,NADH:ubiquinone reductase (H+-translocating);
