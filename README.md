@@ -53,7 +53,7 @@ MERGE (a)-[t:HAS_NEIGHBOR {Distance:toFloat(row.DAdist), Angle: toFloat(row.DAAA
 
 
 References:
-Protein Databank: H.M. Berman, J. Westbrook, Z. Feng, G. Gilliland, T.N. Bhat, H. Weissig, I.N. Shindyalov, P.E. Bourne. (2000) The Protein Data Bank Nucleic Acids Research, 28: 235-242. <rcsb.org>
-HBPLUS: I.K. McDonald and J.M. Thornton (1994). Satisfying hydrogen bonding potential in proteins. J. Mol. Biol., 238, 777-793.
-PDBbind: Wang R, Fang X, Lu Y, Yang CY, Wang S (2005). "The PDBbind database: methodologies and updates". J. Med. Chem. 48 (12): 4111–9. doi:10.1021/jm048957q. PMID 15943484. 
-Kanehisa, M. and Goto, S.; KEGG: Kyoto Encyclopedia of Genes and Genomes. Nucleic Acids Res. 28, 27-30 (2000). 
+- Protein Databank: H.M. Berman, J. Westbrook, Z. Feng, G. Gilliland, T.N. Bhat, H. Weissig, I.N. Shindyalov, P.E. Bourne. (2000) The Protein Data Bank Nucleic Acids Research, 28: 235-242. <rcsb.org>
+- HBPLUS: I.K. McDonald and J.M. Thornton (1994). Satisfying hydrogen bonding potential in proteins. J. Mol. Biol., 238, 777-793.
+- PDBbind: Wang R, Fang X, Lu Y, Yang CY, Wang S (2005). "The PDBbind database: methodologies and updates". J. Med. Chem. 48 (12): 4111–9. doi:10.1021/jm048957q. PMID 15943484. 
+- Kanehisa, M. and Goto, S.; KEGG: Kyoto Encyclopedia of Genes and Genomes. Nucleic Acids Res. 28, 27-30 (2000). 
